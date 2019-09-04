@@ -1,4 +1,8 @@
 commit1
 commit2
 commit3
+<<<<<<< HEAD
 commit5master
+=======
+commit6branch2
+>>>>>>> Commit6branch2
